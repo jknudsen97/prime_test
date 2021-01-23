@@ -1,0 +1,20 @@
+null
+7 is a prime number.
+
+19 is a prime number.
+
+13 is a prime number.
+
+15 is not a prime number.
+
+21 is not a prime number.
+
+23 is a prime number.
+
+25 is not a prime number.
+
+29 is a prime number.
+
+33 is not a prime number.
+
+47 is a prime number.
